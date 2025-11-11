@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Novoking Smartbooking",
+  "description": "A modern web application for scheduling hourly cleaning services, featuring OTP-based authentication, user profile management, and a streamlined booking process.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
